@@ -20,11 +20,11 @@ const siteUrl = "https://abdulbasit.dev";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
-  title: "Abdul Basit | Digital Producer, AI Developer & Web Developer",
+  title: "John Doe | Digital Producer, AI Developer & Web Developer",
   description:
-    "Abdul Basit is a Digital Producer and AI & Web Developer creating intelligent digital products, modern web applications, and AI-powered experiences.",
+    "John Doe is a Digital Producer and AI & Web Developer creating intelligent digital products, modern web applications, and AI-powered experiences.",
   keywords: [
-    "Abdul Basit",
+    "John Doe",
     "Digital Producer",
     "AI Developer",
     "Web Developer",
@@ -32,23 +32,23 @@ export const metadata: Metadata = {
     "Next.js",
     "Machine Learning",
   ],
-  authors: [{ name: "Abdul Basit" }],
+  authors: [{ name: "John Doe" }],
   icons: {
     icon: "/favicon.svg",
   },
   openGraph: {
-    title: "Abdul Basit | Digital Producer, AI Developer & Web Developer",
+    title: "John Doe | Digital Producer, AI Developer & Web Developer",
     description:
       "I turn ideas into digital products, intelligent experiences, and scalable web solutions.",
     url: siteUrl,
-    siteName: "Abdul Basit",
+    siteName: "John Doe",
     images: [{ url: "/og-image.png", width: 1200, height: 630 }],
     locale: "en_US",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Abdul Basit | Digital Producer, AI Developer & Web Developer",
+    title: "John Doe | Digital Producer, AI Developer & Web Developer",
     description:
       "I turn ideas into digital products, intelligent experiences, and scalable web solutions.",
     images: ["/og-image.png"],
@@ -79,13 +79,10 @@ export default function RootLayout({
             __html: JSON.stringify({
               "@context": "https://schema.org",
               "@type": "Person",
-              name: "Abdul Basit",
+              name: "John Doe",
               jobTitle: "Digital Producer, AI Developer & Web Developer",
               url: siteUrl,
-              sameAs: [
-                "https://github.com/",
-                "https://linkedin.com/",
-              ],
+              sameAs: ["https://github.com/", "https://linkedin.com/"],
             }),
           }}
         />
