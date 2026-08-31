@@ -18,7 +18,7 @@ The design must be **clean, sophisticated, minimal, highly responsive, and visua
 
 Use the following positioning:
 
-**Name:** Abdul Basit
+**Name:** John Doe
 
 **Primary Title:**
 Digital Producer • AI Developer • Full-Stack Web Developer
@@ -118,7 +118,7 @@ Left:
 
 or
 
-**Abdul Basit**
+**John Doe**
 
 Right navigation:
 
@@ -749,7 +749,7 @@ GitHub
 
 Display:
 
-**Abdul Basit**
+**John Doe**
 
 Digital Producer • AI • Web • Product
 
@@ -769,7 +769,7 @@ Email
 
 Bottom:
 
-`© 2026 Abdul Basit. Built with curiosity + code.`
+`© 2026 John Doe. Built with curiosity + code.`
 
 ---
 
@@ -867,11 +867,11 @@ Implement complete SEO.
 
 Page title:
 
-**Abdul Basit | Digital Producer, AI Developer & Web Developer**
+**John Doe | Digital Producer, AI Developer & Web Developer**
 
 Meta description:
 
-> Abdul Basit is a Digital Producer and AI & Web Developer creating intelligent digital products, modern web applications, and AI-powered experiences.
+> John Doe is a Digital Producer and AI & Web Developer creating intelligent digital products, modern web applications, and AI-powered experiences.
 
 Include:
 
