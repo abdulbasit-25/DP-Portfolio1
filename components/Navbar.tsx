@@ -42,7 +42,7 @@ export default function Navbar() {
           href="#home"
           className="font-display font-semibold text-lg tracking-tight text-text"
         >
-          Abdul Basit
+          John Doe
         </a>
 
         <ul className="hidden lg:flex items-center gap-8 font-body text-sm text-muted">
